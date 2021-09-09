@@ -40,11 +40,11 @@ public class Evento {
 		this.data = data;
 	}
 
-	public String getHorário() {
+	public String getHorario() {
 		return horario;
 	}
 
-	public void setHorário(String horario) {
+	public void setHorario(String horario) {
 		this.horario = horario;
 	}
 
